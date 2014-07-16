@@ -1,5 +1,5 @@
-[js Sequence Diagram](http://yguan.github.io/repos/js-sequence-diagrams/)
+[js Sequence Diagram](http://yguan.github.io/repos/utilites/js-sequence-diagrams/)
 
-[Markdown Editor](http://yguan.github.io/repos/markdown-editor/)
+[Markdown Editor](http://yguan.github.io/repos/utilites/markdown-editor/)
 
-[DOT Language Editor](http://yguan.github.io/repos/dot-editor/)
+[DOT Language Editor](http://yguan.github.io/repos/utilites/dot-editor/)
